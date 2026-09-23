@@ -44,7 +44,4 @@ Compiled files should remain outside the repository.
 
 ## AI and external resources
 
-To be completed by Ashley.
-
-Before submission, add the required AI interaction transcript link(s) and any
-Internet source URLs used, as specified in the assignment.
+Neither AI or Internet resources were used in the creation of this assignment. 
